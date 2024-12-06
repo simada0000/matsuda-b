@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f4f4f9;
-  color: #333;
+  color: #666;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,7 +15,7 @@ body {
 
 /* ヘッダー */
 header {
-  background-image: url('https://matoite.com/wp-content/uploads/2023/04/tsudanuma-smoking-area.jpeg');
+  background-image: url('../htdocs/img/tsudanuma-smoking-area.jpeg');
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -103,8 +103,8 @@ a:active {
 
 /* フッター */
 footer {
-  background-color: #2f6662; /* より濃い色で強調 */
-  color: white;
+  background-color: #5f9ea0; /* より濃い色で強調 */
+  color: rgb(204, 34, 34);
   text-align: center;
   padding: 30px 20px;
   margin-top: 40px;
@@ -123,4 +123,8 @@ footer p {
 footer p:first-of-type {
   font-size: 1.5rem;
   font-weight: 600;
+}
+
+footer p {
+  color: white; /* 白色 */
 }
