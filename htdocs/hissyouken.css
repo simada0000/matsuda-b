@@ -131,3 +131,17 @@ body {
 .store-menu, .store-access {
   font-size: 1.8em;
 }
+
+/* ヘッダー */
+header {
+  background-image: url('../htdocs/img/必勝1.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
