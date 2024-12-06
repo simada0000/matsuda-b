@@ -38,7 +38,7 @@ body {
   }
   
   .store-description p {
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     line-height: 1.6;
     margin-top: 10px;
     color: #666;
@@ -57,7 +57,7 @@ body {
   }
   
   .store-details li {
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     margin-bottom: 8px;
     color: #333;
   }
@@ -92,7 +92,7 @@ body {
   }
   
   .store-menu li {
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     margin-bottom: 10px;
     color: #333;
   }
@@ -129,5 +129,5 @@ body {
 
   /* store-menuとstore-access内のフォントサイズを2.2emに設定 */
 .store-menu, .store-access {
-  font-size: 2.2em;
+  font-size: 1.8em;
 }
